@@ -14,3 +14,7 @@ Template: twentyfifteen
 */
 
 @import url("../twentyfifteen/style.css");
+
+.entry-title {
+  color: red;
+}
